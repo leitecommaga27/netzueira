@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(20, 19, 19);
+}
+
+.titulo{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+}
+
+.contas{
+    display: flex;
+}
+
+.conta1{
+    margin-left: 900px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(86, 86, 255);
+    border-width: 4px;
+    border-radius: 7px;
+}
+
+.conta1:hover{
+    border-color: white;
+}
+
+h4:hover{
+    color: white;
+}
+
+.conta2{
+    margin-left: 50px;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-width: 4px;
+    border-radius: 7px;
+}
+
+.conta2:hover{
+    border-color: white;
+}
+
+.criarconta{
+    margin-left: 50px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(43, 41, 41);
+    border: none;
+    border-radius: 7px;
+}
+
+.criarconta:hover{
+    background-color: white;
+}
+
+img{
+    padding: 20px;
+    height: 150px;
+}
+
+h4{
+    padding: 0px;
+    font-size: 20px;
+    color: rgb(109, 96, 96);
+}
+
+.nomes{
+    display: flex;
+}
+
+.nome2{
+    margin-left: 180px;
+}
